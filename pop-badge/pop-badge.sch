@@ -80,4 +80,28 @@ Wire Wire Line
 	2150 2500 2150 2450
 Wire Wire Line
 	2150 2450 1900 2450
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6190E265
+P 1500 5000
+F 0 "H1" H 1600 5046 50  0000 L CNN
+F 1 "MountingHole" H 1600 4955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 1500 5000 50  0001 C CNN
+F 3 "~" H 1500 5000 50  0001 C CNN
+	1    1500 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6190E4B0
+P 1500 5300
+F 0 "H2" H 1600 5346 50  0000 L CNN
+F 1 "MountingHole" H 1600 5255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 1500 5300 50  0001 C CNN
+F 3 "~" H 1500 5300 50  0001 C CNN
+	1    1500 5300
+	1    0    0    -1  
+$EndComp
+Text Label 2150 2450 0    50   ~ 0
++5V
 $EndSCHEMATC
