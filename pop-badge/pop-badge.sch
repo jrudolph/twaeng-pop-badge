@@ -84,7 +84,6 @@ NoConn ~ 4850 1550
 NoConn ~ 4850 1350
 NoConn ~ 4850 1250
 NoConn ~ 4850 1150
-NoConn ~ 4850 1050
 NoConn ~ 4850 850 
 NoConn ~ 3450 850 
 NoConn ~ 3450 950 
@@ -111,8 +110,6 @@ Text GLabel 5100 950  2    50   Input ~ 0
 +5V
 Text GLabel 5100 1450 2    50   Input ~ 0
 DIN
-Text GLabel 3200 1050 0    50   Input ~ 0
-GND
 $Sheet
 S 1350 3250 550  550 
 U 615492B8
@@ -147,15 +144,7 @@ LEDwMCU
 Wire Wire Line
 	5100 1950 4850 1950
 Wire Wire Line
-	1200 950  1400 950 
-Wire Wire Line
-	1400 850  1200 850 
-Wire Wire Line
 	1200 750  1400 750 
-Text GLabel 1200 950  0    50   Input ~ 0
-GND
-Text GLabel 1200 850  0    50   Input ~ 0
-DIN
 Text GLabel 1200 750  0    50   Input ~ 0
 +5V
 Text GLabel 2100 2450 2    50   Input ~ 0
@@ -170,4 +159,18 @@ Wire Wire Line
 	1900 2650 2100 2650
 Wire Wire Line
 	2100 2850 1900 2850
+Text GLabel 3200 1050 0    50   Input ~ 0
+GND
+Wire Wire Line
+	1200 850  1400 850 
+Text GLabel 1200 850  0    50   Input ~ 0
+GND
+Wire Wire Line
+	1400 950  1200 950 
+Text GLabel 1200 950  0    50   Input ~ 0
+DIN
+Wire Wire Line
+	5100 1050 4850 1050
+Text GLabel 5100 1050 2    50   Input ~ 0
+GND
 $EndSCHEMATC
