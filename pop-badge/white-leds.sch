@@ -826,20 +826,6 @@ Wire Wire Line
 Connection ~ 6000 750 
 Text GLabel 1800 4850 2    50   Input ~ 0
 LEDw+
-$Comp
-L Device:R R51
-U 1 1 615A4B23
-P 1250 5700
-F 0 "R51" V 1043 5700 50  0000 C CNN
-F 1 "4k7" V 1134 5700 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1180 5700 50  0001 C CNN
-F 3 "~" H 1250 5700 50  0001 C CNN
-F 4 "0603" H 1250 5700 50  0001 C CNN "JLC"
-	1    1250 5700
-	0    1    1    0   
-$EndComp
-Text HLabel 1100 5700 0    50   Input ~ 0
-LEDwMCU
 Text GLabel 700  1350 0    50   Input ~ 0
 LEDw-
 Wire Wire Line
@@ -931,34 +917,12 @@ Wire Wire Line
 Wire Wire Line
 	7050 1350 7400 1350
 Connection ~ 7050 1350
-Text GLabel 1800 5300 2    50   Input ~ 0
+Text GLabel 1800 5050 2    50   Input ~ 0
 LEDw-
-Wire Wire Line
-	1800 5300 1700 5300
-Wire Wire Line
-	1700 5300 1700 5500
-$Comp
-L Transistor_BJT:BC818 Q1
-U 1 1 616388C7
-P 1600 5700
-F 0 "Q1" H 1791 5746 50  0000 L CNN
-F 1 "S9013" H 1791 5655 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 1800 5625 50  0001 L CIN
-F 3 "" H 1600 5700 50  0001 L CNN
-F 4 "C6749" H 1600 5700 50  0001 C CNN "JLC"
-	1    1600 5700
-	1    0    0    -1  
-$EndComp
-Text HLabel 1100 6050 0    50   Input ~ 0
-GND
 Text HLabel 1100 4850 0    50   Input ~ 0
 +5V
 Wire Wire Line
 	1100 4850 1800 4850
-Wire Wire Line
-	1700 5900 1700 6050
-Wire Wire Line
-	1100 6050 1700 6050
 $Comp
 L Device:LED D41
 U 1 1 616B4751
@@ -1564,4 +1528,8 @@ Connection ~ 6000 1550
 Connection ~ 6000 2150
 Connection ~ 5650 1550
 Connection ~ 5650 2150
+Text HLabel 1100 5050 0    50   Input ~ 0
+LEDw-
+Wire Wire Line
+	1100 5050 1800 5050
 $EndSCHEMATC
