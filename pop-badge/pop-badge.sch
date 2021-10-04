@@ -298,66 +298,16 @@ Wire Wire Line
 Connection ~ 4150 4900
 Wire Wire Line
 	4150 4900 4150 5000
-Text GLabel 5400 3900 2    50   Input ~ 0
-Button
 $Comp
-L Device:R R55
-U 1 1 615CA836
-P 5400 4850
-F 0 "R55" H 5470 4896 50  0000 L CNN
-F 1 "200" H 5470 4805 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 5330 4850 50  0001 C CNN
-F 3 "~" H 5400 4850 50  0001 C CNN
-F 4 "0603" H 5400 4850 50  0001 C CNN "JLC"
-	1    5400 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0103
-U 1 1 615CAE29
-P 5400 5000
-F 0 "#PWR0103" H 5400 4750 50  0001 C CNN
-F 1 "GND" H 5405 4827 50  0000 C CNN
-F 2 "" H 5400 5000 50  0001 C CNN
-F 3 "" H 5400 5000 50  0001 C CNN
-	1    5400 5000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5400 3900 5400 4100
-$Comp
-L Connector_Generic:Conn_01x06 J1
-U 1 1 615CEC6A
+L Connector_Generic:Conn_01x05 J1
+U 1 1 616045CF
 P 1600 950
-F 0 "J1" H 1680 942 50  0000 L CNN
-F 1 "Conn_01x06" H 1680 851 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 1600 950 50  0001 C CNN
+F 0 "J1" H 1680 992 50  0000 L CNN
+F 1 "Conn_01x05" H 1680 901 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 1600 950 50  0001 C CNN
 F 3 "~" H 1600 950 50  0001 C CNN
 	1    1600 950 
 	1    0    0    -1  
 $EndComp
-Text GLabel 1200 1250 0    50   Input ~ 0
-Button
-Text GLabel 5100 2450 2    50   Input ~ 0
-Button
-Wire Wire Line
-	5100 2450 4850 2450
-Wire Wire Line
-	1400 1250 1200 1250
-$Comp
-L TS-button:TS-1187A-B-A-B S1
-U 1 1 615D35C1
-P 5400 4400
-F 0 "S1" V 5354 4511 50  0000 L CNN
-F 1 "TS-1187A-B-A-B" V 5445 4511 50  0000 L CNN
-F 2 "footprints:SW_TS-1187A-B-A-B" H 5400 4400 50  0001 L BNN
-F 3 "" H 5400 4400 50  0001 L BNN
-F 4 "A0" H 5400 4400 50  0001 L BNN "PARTREV"
-F 5 "XKB Industrial Precision" H 5400 4400 50  0001 L BNN "MANUFACTURER"
-F 6 "1.5mm" H 5400 4400 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
-F 7 "Manufacturer Recommendations" H 5400 4400 50  0001 L BNN "STANDARD"
-F 8 "C318884" H 5400 4400 50  0001 C CNN "JLC"
-	1    5400 4400
-	0    1    1    0   
-$EndComp
+NoConn ~ 4850 2450
 $EndSCHEMATC
