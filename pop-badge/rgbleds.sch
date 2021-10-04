@@ -40,7 +40,7 @@ F 3 "" H 3450 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E18CF
 P 2850 1200
 AR Path="/617E18CF" Ref="U?"  Part="1" 
@@ -113,7 +113,7 @@ $EndComp
 Wire Wire Line
 	6250 1200 6450 1200
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E18F9
 P 5650 1200
 AR Path="/617E18F9" Ref="U?"  Part="1" 
@@ -155,7 +155,7 @@ F 3 "" H 7650 1400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E190D
 P 7050 1200
 AR Path="/617E190D" Ref="U?"  Part="1" 
@@ -231,7 +231,7 @@ $EndComp
 Wire Wire Line
 	3450 2450 3650 2450
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E37B7
 P 2850 2450
 AR Path="/617E37B7" Ref="U?"  Part="1" 
@@ -275,7 +275,7 @@ $EndComp
 Wire Wire Line
 	4850 2450 5050 2450
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E37D8
 P 4250 2450
 AR Path="/617E37D8" Ref="U?"  Part="1" 
@@ -319,7 +319,7 @@ $EndComp
 Wire Wire Line
 	6250 2450 6450 2450
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E37F9
 P 5650 2450
 AR Path="/617E37F9" Ref="U?"  Part="1" 
@@ -361,7 +361,7 @@ F 3 "" H 7650 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E3819
 P 7050 2450
 AR Path="/617E3819" Ref="U?"  Part="1" 
@@ -409,7 +409,7 @@ F 3 "" H 9050 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E383C
 P 8450 2450
 AR Path="/617E383C" Ref="U?"  Part="1" 
@@ -453,7 +453,7 @@ $EndComp
 Wire Wire Line
 	3450 3650 3650 3650
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EC540
 P 2850 3650
 AR Path="/617EC540" Ref="U?"  Part="1" 
@@ -497,7 +497,7 @@ $EndComp
 Wire Wire Line
 	4850 3650 5050 3650
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EC555
 P 4250 3650
 AR Path="/617EC555" Ref="U?"  Part="1" 
@@ -541,7 +541,7 @@ $EndComp
 Wire Wire Line
 	6250 3650 6450 3650
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EC56A
 P 5650 3650
 AR Path="/617EC56A" Ref="U?"  Part="1" 
@@ -583,7 +583,7 @@ F 3 "" H 7650 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EC57E
 P 7050 3650
 AR Path="/617EC57E" Ref="U?"  Part="1" 
@@ -631,7 +631,7 @@ F 3 "" H 9050 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EC595
 P 8450 3650
 AR Path="/617EC595" Ref="U?"  Part="1" 
@@ -675,7 +675,7 @@ $EndComp
 Wire Wire Line
 	3450 4800 3650 4800
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EF6EF
 P 2850 4800
 AR Path="/617EF6EF" Ref="U?"  Part="1" 
@@ -719,7 +719,7 @@ $EndComp
 Wire Wire Line
 	4850 4800 5050 4800
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EF704
 P 4250 4800
 AR Path="/617EF704" Ref="U?"  Part="1" 
@@ -763,7 +763,7 @@ $EndComp
 Wire Wire Line
 	6250 4800 6450 4800
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EF719
 P 5650 4800
 AR Path="/617EF719" Ref="U?"  Part="1" 
@@ -805,7 +805,7 @@ F 3 "" H 7650 5000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EF72D
 P 7050 4800
 AR Path="/617EF72D" Ref="U?"  Part="1" 
@@ -853,7 +853,7 @@ F 3 "" H 9050 5000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617EF744
 P 8450 4800
 AR Path="/617EF744" Ref="U?"  Part="1" 
@@ -897,7 +897,7 @@ $EndComp
 Wire Wire Line
 	3450 5950 3650 5950
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617F25BD
 P 2850 5950
 AR Path="/617F25BD" Ref="U?"  Part="1" 
@@ -941,7 +941,7 @@ $EndComp
 Wire Wire Line
 	4850 5950 5050 5950
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617F25D2
 P 4250 5950
 AR Path="/617F25D2" Ref="U?"  Part="1" 
@@ -985,7 +985,7 @@ $EndComp
 Wire Wire Line
 	6250 5950 6450 5950
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617F25E7
 P 5650 5950
 AR Path="/617F25E7" Ref="U?"  Part="1" 
@@ -1027,7 +1027,7 @@ F 3 "" H 7650 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617F25FB
 P 7050 5950
 AR Path="/617F25FB" Ref="U?"  Part="1" 
@@ -1075,7 +1075,7 @@ F 3 "" H 9050 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617F2612
 P 8450 5950
 AR Path="/617F2612" Ref="U?"  Part="1" 
@@ -1092,7 +1092,7 @@ F 6 "C965555" H 8450 5950 50  0001 C CNN "JLC"
 $EndComp
 NoConn ~ 9050 5950
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E1924
 P 8450 1200
 AR Path="/617E1924" Ref="U?"  Part="1" 
@@ -1178,7 +1178,7 @@ Wire Wire Line
 Wire Wire Line
 	9050 1200 9600 1200
 $Comp
-L WS2812-2020:WS2812-2020 U?
+L pop-badge-rescue:WS2812-2020-WS2812-2020 U?
 U 1 1 617E18E4
 P 4250 1200
 AR Path="/617E18E4" Ref="U?"  Part="1" 

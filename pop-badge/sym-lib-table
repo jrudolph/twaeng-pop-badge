@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pop-badge-rescue)(type Legacy)(uri ${KIPRJMOD}/pop-badge-rescue.lib)(options "")(descr ""))
+)
