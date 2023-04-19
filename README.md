@@ -1,6 +1,6 @@
-# Twang POP! Badge
+# Twäng POP! Badge
 
-These are [KiCad](https://www.kicad.org/) sources from which the Twang POP! Badge was produced. This
+These are [KiCad](https://www.kicad.org/) sources from which the [Twäng](https://twaeng.de) [pop!](https://twaeng.de/musik/pop) badge was produced. This
 is basically version 2 of the blinky sign described [on the blog](https://blog.virtual-void.net/2022/06/17/creating-a-blinky-sign-for-twaeng/).
 
 The updated firmware can be built from the `pop-badge` branch of the [firmware repository](https://github.com/jrudolph/twaeng-pop-sign/tree/pop-badge).
